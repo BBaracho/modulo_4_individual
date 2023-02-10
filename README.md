@@ -11,7 +11,7 @@ Os tipos de dados mais comuns para cada campo: PK, Fk, Int e Varchar.
 
 3- Como essas entidades estão relacionadas?
 
-A maioria dos relacionamentos é de (1,n).
+A maioria dos relacionamentos é de (1:n).
 
 
 Diagrama
