@@ -14,6 +14,6 @@ Os tipos de dados mais comuns para cada campo: PK, Fk, Int e Varchar.
 A maioria dos relacionamentos é de (1:N).
 
 
-Diagrama
+Diagrama:
 
 ![diagrama](https://user-images.githubusercontent.com/112404985/218110932-e92fe2da-c936-4fb2-a75a-20a9c6fa5047.png)
